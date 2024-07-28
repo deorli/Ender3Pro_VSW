@@ -47,3 +47,8 @@ The left side of the X axis is made analogous to the right side.
 | Before                                   | After                                  |
 |:----------------------------------------:|:--------------------------------------:|
 |![Before](Images/X_axle_pulley_before.png)|![After](Images/X_axle_pulley_after.png)|
+
+### Z axle tensioner pulley
+| Before                                   | After                                  |
+|:----------------------------------------:|:--------------------------------------:|
+|![Before](Images/Z_axle_pulley_before.png)|![After](Images/Z_axle_pulley_after.png)|
