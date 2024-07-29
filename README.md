@@ -5,7 +5,7 @@ This is a conversion based on the original [Ender 3 Pro Switchwire](https://gith
 
 Everyone has different needs, and everyone sees different improvements they can make. I want to show my vision for improving this popular budget printer, which includes the following improvements:
 - [x] Replacing the toothless GT2 pulley with a gear wheel,
-- [ ] Changing the Rasppery Pi mount under version 4 model B,
+- [x] Changing the Rasppery Pi mount under version 4 model B,
 - [ ] Removal of the cable chain for the Z axis,
 - [ ] Redesigning a BLTouch mount in place of the original Switchwire levelling,
 
