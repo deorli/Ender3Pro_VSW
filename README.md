@@ -32,12 +32,12 @@ A pulley without teeth can deform the belt teeth, which can cause inaccuracies i
 
 The gears I purchased were larger in diameter than the previous ones, so it was not without modifications to other components in close contact to avoid collisions.
 
-### Y axle tensioner pulley
+### Y-axis pulley
 | Before                                   | After                                  |
 |:----------------------------------------:|:--------------------------------------:|
 |![Before](Images/Y_axle_pulley_before.png)|![After](Images/Y_axle_pulley_after.png)|
 
-### X axle tensioner pulley
+### X-axis pulleys
 
 For the wheels mounted on the X-axle, only one wheel was changed and, in addition, the aluminium profile had to be slightly trimmed at a 45-degree angle. This is necessary to avoid collisions, as well as reworking more components to hold the GT2 belt vertically and horizontally.
 The second pulley remained unchanged, as the belt will rotate on it with the side without teeth.
@@ -48,7 +48,8 @@ The left side of the X axis is made analogous to the right side.
 |:----------------------------------------:|:--------------------------------------:|
 |![Before](Images/X_axle_pulley_before.png)|![After](Images/X_axle_pulley_after.png)|
 
-### Z axle tensioner pulley
+### Y-axis pulleys
+
 | Before                                   | After                                  |
 |:----------------------------------------:|:--------------------------------------:|
 |![Before](Images/Z_axle_pulley_before.png)|![After](Images/Z_axle_pulley_after.png)|
