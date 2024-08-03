@@ -72,4 +72,4 @@ The left side of the X axis is made analogous to the right side.
 Four supports in the central area under the table will improve stability and reduce the likelihood of the table warping due to temperature increases.
 | Cross-section                             | Assembling                        |
 |:-----------------------------------------:|:---------------------------------:|
-|![Before](Images/ZCenter_table_support.png)|![After](Center_table_supports.png)|
+|![Before](Images/Center_table_support.png)|![After](Images/Center_table_supports.png)|
