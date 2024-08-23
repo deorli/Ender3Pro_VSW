@@ -25,7 +25,9 @@ and other quite important modifications:
 
 #### Side modifications:
 - [x] Change of Rasppery Pi mount for version 4 model B,
+- [ ] BIGTREETECH BTT SKR Mini E3 model change from v2.0 to v3.0,
 - [x] Additional four supports in the middle of the table,
+- [x] Additional table insulation,
 - [ ] Removal of the cable chain for the Z axis.
 
 In the future, I also plan to modify the hotend mount to make it compatible with, for example, the E3D V6, etc.
@@ -70,6 +72,11 @@ The left side of the X axis is made analogous to the right side.
 
 ### Additional four table supports
 Four supports in the central area under the table will improve stability and reduce the likelihood of the table warping due to temperature increases.
-| Cross-section                             | Assembling                        |
-|:-----------------------------------------:|:---------------------------------:|
-|![Before](Images/Center_table_support.png)|![After](Images/Center_table_supports.png)|
+| Cross-section                                   | Assembling                                    |
+|:-----------------------------------------------:|:---------------------------------------------:|
+|![Cross-section](Images/Center_table_support.png)|![Assembling](Images/Center_table_supports.png)|
+
+### Additional table insulation
+The additional insulation of the table will prevent the heat from underneath being transferred to the surroundings more quickly and will certainly reduce the energy consumption to maintain the temperature.
+|:-----------------------------------------------:|
+|![Cross-section](Images/Table_insulation.png)|
