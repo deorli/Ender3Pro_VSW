@@ -25,7 +25,7 @@ and other quite important modifications:
 
 #### Side modifications:
 - [x] Change of Rasppery Pi mount for version 4 model B,
-- [ ] BIGTREETECH BTT SKR Mini E3 model change from v2.0 to v3.0,
+- [x] BIGTREETECH BTT SKR Mini E3 model change from v2.0 to v3.0,
 - [x] Additional four supports in the middle of the table,
 - [x] Additional table insulation,
 - [ ] Removal of the cable chain for the Z axis.
@@ -69,6 +69,18 @@ The left side of the X axis is made analogous to the right side.
 |![Before](Images/Z_axle_pulley_before.png)|![After](Images/Z_axle_pulley_after.png)|
 
 ## Side modifications
+
+### Change of Rasppery Pi mount for version 4 model B
+Modifying the attachment of the Rasppery Pi 4 to the aluminium profiles gave more mounting options. In addition, the whole structure has been reinforced, as the previous one was not very flexible in my opinion.
+| Before                         | After                        |
+|:------------------------------:|:----------------------------:|
+|![Before](Images/Pi4_before.png)|![After](Images/Pi4_after.png)|
+
+### BIGTREETECH SKR Mini E3 model change from v2.0 to v3.0,
+The BTT SKR Mini E3 v3.0 mount has also been reinforced.
+| Before                                     | After                                    |
+|:------------------------------------------:|:----------------------------------------:|
+|![Before](Images/Btt_Skr_Mini_E3_before.png)|![After](Images/Btt_Skr_Mini_E3_after.png)|
 
 ### Additional four table supports
 Four supports in the central area under the table will improve stability and reduce the likelihood of the table warping due to temperature increases.
