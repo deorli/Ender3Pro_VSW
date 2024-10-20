@@ -26,7 +26,13 @@ Other significant upgrades include:
 - [x] Upgraded BIGTREETECH BTT SKR Mini E3 from v2.0 to v3.0
 - [x] Added four additional supports under the bed
 - [x] Added insulation to the bed for better heat retention
-- [ ] Removed the cable chain for the Z-axis
+- [x] Removed the cable chain for the Z-axis
+- [x] Redesigned mount for the 24V power supply
+- [x] Redesigned mount for the SKR Mini E3 v3.0
+- [x] Redesigned mount for the 12V power supply
+- [x] Designed mount for the relays
+- [x] Designed mount for the buck converters
+
 
 #### Future Plans:
 In the future, I plan to modify the hotend mount to make it compatible with other popular hotends, such as the E3D V6.
@@ -86,5 +92,44 @@ To improve stability and minimize warping from heat, I added four supports benea
 
 ### Additional table insulation
 Adding insulation beneath the bed will help retain heat and reduce energy consumption during printing.
-|:-----------------------------------------------:|
+|                                             |
+|:-------------------------------------------:|
 |![Cross-section](Images/Table_insulation.png)|
+
+### Removed the cable chain for the Z-axis
+The X-axis cable guide and cable chain are no longer necessary. 
+Instead, the cables will be supported by the cooling supply tubes that run from outside the chamber, exiting through the rear wall of the enclosure. 
+This simplifies cable management and enhances the overall design by reducing unnecessary components.
+| Before                                                      | After                                                   |
+|:-----------------------------------------------------------:|:-------------------------------------------------------:|
+|![Cross-section](Images/Z_axle_chain_belt_removed_before.png)|![Assembling](Images/Z_axle_chain_belt_removed_after.png)|
+
+### Redesigned mount for the 24V power supply
+The 24V power supply mount has been redesigned and relocated to the front of the printer, providing additional space for better cable management and reducing clutter.
+| Before                                             | After                                          |
+|:--------------------------------------------------:|:----------------------------------------------:|
+|![Cross-section](Images/24V_power_supply_before.png)|![Assembling](Images/24V_power_supply_after.png)|
+
+### Redesigned mount for the SKR Mini E3 v3.0
+The SKR Mini E3 mount has been redesigned to address the fragility of the original mount, which easily bent when connecting additional components to the board. The new design ensures greater durability and stability during assembly.
+| Before                                              | After                                           |
+|:---------------------------------------------------:|:-----------------------------------------------:|
+|![Cross-section](Images/SKR_E3_mini_mount_before.png)|![Assembling](Images/SKR_E3_mini_mount_after.png)|
+
+### Redesigned mount for the 12V power supply
+A new mount has been designed for the 12V power supply, which will power LED lighting and future components requiring 12V. Although the original 24V power supply could be used, its current capacity may not be enough for future expansions. The mount has also been repositioned toward the front of the printer to create additional space for other components.
+| Before                                             | After                                          |
+|:--------------------------------------------------:|:----------------------------------------------:|
+|![Cross-section](Images/12V_power_supply_before.png)|![Assembling](Images/12V_power_supply_after.png)|
+
+### Designed mount for the relays
+A mount was designed for a 4-channel relay module to switch the SKR Mini E3 board, LED lighting, electronics cooling fan, and chamber heating. This circuit is controlled by the Raspberry Pi. In the future, if more channels are required, a redesign may be necessary to accommodate additional relays.
+|                                   |
+|:---------------------------------:|
+|![Cross-section](Images/relays.png)|
+
+### Designed mount for the buck converters
+A mount has been designed for two buck converters to step down the power supply for various components. One converter will be dedicated to powering the Raspberry Pi 4, while the second will be reserved for future use, providing flexibility for additional components as needed.
+|                                            |
+|:------------------------------------------:|
+|![Cross-section](Images/buck_converters.png)|
